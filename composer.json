@@ -1,0 +1,23 @@
+{
+    "name": "bishwajitcadhikary/zkteco-sdk",
+    "description": "ZKTeco Laravel Library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raihan Afroz",
+            "email": "raihanafroz9@gmail.com"
+        },
+        {
+            "name": "Bishwajit Adhikary",
+            "email": "bishwajitcadhikary@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4":{
+          "abnDevs\\Zkteco\\": "src"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
